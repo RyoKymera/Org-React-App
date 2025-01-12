@@ -1,0 +1,31 @@
+.orgSection{
+    width: 100%;
+    padding: 10px 0px;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.orgSection img{
+    cursor: pointer;
+    margin-left: 8rem;
+    grid-column: 3/4;
+}
+
+.orgSection text{
+    text-align: center;
+}
+
+.title{
+    color: #6278f7;
+    font-size: 40px;
+    font-weight: 400;
+    padding-bottom: 24px;
+    margin: 0 75px;
+    border-bottom: 4px solid #6278f7;
+    text-align: center;
+    grid-column: 2/2;
+}
+
