@@ -23,12 +23,15 @@ Quiero aprovechar esta oportunidad para expresar mi más sincero agradecimiento 
 
 2. Navega al directorio del proyecto:
 
+   ```bash
    cd org
 
 3. Instala las dependencias:
 
+   ```bash
    npm install
 
 4. Inicia el servidor de desarrollo:
 
+   ```bash
    npm run dev
