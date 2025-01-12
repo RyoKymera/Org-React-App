@@ -1,8 +1,34 @@
-# React + Vite
+# Org
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Org es una aplicación desarrollada para la gestión y creación de equipos de trabajo. Este proyecto corresponde a mi primer trabajo utilizando **React**, una librería que me permitió aprender y aplicar conceptos clave del desarrollo web moderno.
 
-Currently, two official plugins are available:
+Este proyecto tiene como objetivo simplificar la creación y administración de equipos, permitiendo a los usuarios agregar miembros, asignar roles y organizar tareas de manera eficiente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Agradecimientos
+
+Quiero aprovechar esta oportunidad para expresar mi más sincero agradecimiento a los profesores y tutores de **ALURA Latam**, quienes me han guiado durante todo este proceso de aprendizaje. Su dedicación, paciencia y compromiso han sido fundamentales para completar este proyecto. Gracias por compartir sus conocimientos y por fomentar un ambiente de aprendizaje tan enriquecedor.
+
+## Tecnologías utilizadas
+
+- **React**: Librería de JavaScript para la construcción de interfaces de usuario.
+- **CSS**: Estilos personalizados para la aplicación.
+- **Vite**: Herramienta de construcción rápida y optimizada para el desarrollo de aplicaciones.
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local:
+
+   ```bash
+   git clone https://github.com/tu-usuario/org.git
+
+2. Navega al directorio del proyecto:
+
+   cd org
+
+3. Instala las dependencias:
+
+   npm install
+
+4. Inicia el servidor de desarrollo:
+
+   npm run dev
