@@ -2,7 +2,7 @@
   "name": "org",
   "private": true,
   "version": "0.0.0",
-  "homepage": "/Org-React-App", 
+  "homepage": "https://RyoKymera.github.io/Org-React-App", 
   "type": "module",
   "scripts": {
     "dev": "vite",
